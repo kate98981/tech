@@ -1,3 +1,4 @@
 перед запуском ввести 
 1)путь к папке cd...
 2)npm install express
+3)npm start
