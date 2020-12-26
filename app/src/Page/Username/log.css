@@ -1,0 +1,124 @@
+.center1{
+    left: 20%;
+    top: 10%;
+}
+.text{
+    text-align: right;
+}
+
+.but{
+    width: 80px;
+}
+
+.but-r1{
+    margin-left: 0px;
+}
+
+.block1{
+    width: 700px;
+    border: 1px solid #7E9ED6;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.tr-username{
+    vertical-align: top;
+}
+
+.min-block{
+    height: 25px;
+    background: rgb(163, 194, 229);
+    border: 1px solid #7E9ED6;
+    padding: 0 10px 0 5px;
+    position: absolute;
+    left: -1px;
+    top: -1px;
+    width: 700px;
+}
+
+
+#pin{
+    float: right;
+}
+
+#div-pin{
+    background: #FFC604;
+    padding: 4px 7px;
+    border-radius: 2px;
+}
+
+.block0{
+    border: none;
+    padding-top: 5px;
+}
+
+#pen{
+    float: right;
+    width: 13px;
+    height: 16px;
+
+}
+
+.pin{
+    width: 250px;
+}
+.info{
+    width: 550px;
+    height: 500px;
+}
+
+#p1{
+
+}
+
+.form1{
+    width: 500px;
+    text-align: right;
+}
+
+.but-doc{
+    width: 150px;
+}
+
+.newdoc{
+
+
+}
+
+#textarea1{
+    width: 189px;
+}
+
+.block11{
+    width: 716px;
+    float: right;
+    position: absolute;
+}
+.block2{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 446px;
+}
+
+.but-del{
+    background: #f48541;
+}
+
+.block-home{
+    width: 200px;
+    margin-right: 60px;
+
+}
+.min-block-home{
+    width: 200px;
+
+}
+
+.div-glav{
+    display: flex;
+    width: 800px;
+}

@@ -1,0 +1,85 @@
+.center{
+    position: fixed;
+    top: 20%;
+    left: 40%;
+    width: 900px;
+    height: 400px;
+}
+
+.cen1{
+    left: 30%;
+}
+.text{
+    text-align: right;
+}
+
+.but{
+    background: rgb(98, 160, 218);
+    color: white;
+    width: 100px;
+    float: right;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.p1{
+    width: 300px;
+    float: right;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.con1{
+    text-align: center;
+}
+
+.inp{
+    display: inline-block; margin: 0 auto;
+}
+
+.td1{
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.but1{
+    float: none;
+    margin-bottom: 10px;
+}
+input{
+    border-color: #7E9ED6;
+}
+textarea{
+    border-color: #7E9ED6;
+}
+.remove{
+    background: rgb(214, 118, 35);
+    width: 80px!important;
+    padding-left: 10px;
+    border-radius: 2px;
+}
+
+.assig{
+    width: 80px!important;
+    background: #FFC604;
+    padding-left: 10px;
+    border-radius: 2px;
+}
+
+a .remove,a .assig{
+    color: white;
+}
+
+.th1{
+    color: white;
+}
+
+a:hover{
+    text-decoration: none!important;
+}
